@@ -1,1 +1,311 @@
-return(function(l,...)local p="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local t=l["zPG8zrp"];local Y=l[((#{564;830;(function(...)return 638,263,926;end)()}+312483628))];local R=l[.7867131604751167];local x=l[(39233639)];local Z=l[((#{[702]=410;8;632;(function(...)return 473,426,653,571;end)()}+732949986))];local i=l[((#{654;68;52;}+782605972))];local M=l[.8542044320396168];local h=l[.6024623450834594];local S=l[((#{(function(...)return 821,579;end)()}+36270402))];local L=l.MZ453qmqGC;local z=l[(523333576)];local E=l[(401603049)];local q=l[((#{[63]=177;629;836;704;(function(...)return 150,755,549;end)()}+30567189))];local r=l[((#{972;}+310548753))];local n=l[(198291497)];local V=l[((#{157;445;598;(function(...)return 489,58,772,...;end)(901,494,474)}+730238137))];local U=l[((#{872;639;266;(function(...)return 302,951,29,260,...;end)(533)}+351422531))];local s=l[(944402234)];local b=l[.8848378359735188];local G=l[((#{530;518;}+783953342))];local c=l[(252363698)];local W=l['Ty7Xi'];local j=((getfenv)or(function(...)return(_ENV);end));local o,u,e=({}),(""),(j(c));local a=((e["\98"..l['tMejCRD'].."\116"..l.iLs7uleF..l[.9073360412881412]])or(e["\98"..l['tMejCRD']..l[r]])or({}));local o=(((a)and(a["\98\120"..l[E].."\114"]))or(function(l,e)local o,c=c,i;while((l>i)and(e>i))do local a,t=l%n,e%n;if a~=t then c=c+o;end;l,e,o=(l-a)/n,(e-t)/n,o*n;end;if l<e then l=e;end;while l>i do local e=l%n;if e>i then c=c+o;end;l,o=(l-e)/n,o*n;end;return(c);end));local f=(n^R);local A=(f-c);local F,D,B;local f=(u["\115"..l[.6273027964063468]..l[x]]);local d=(u[""..l[x].."\121\116\101"]);local C=(u["\103\115"..l[.6273027964063468].."\98"]);local y=(u["\99\104\97\114"]);local O=((e["\109"..l[.10892760525873285].."\116\104"][""..l[.26405322051795815].."\100"..l[t].."\120"..l["BtDCYpSxn"]])or(function(e,l,...)return((e*n)^l);end));local k=(e[""..l.BtDCYpSxn..l[.10892760525873285]..l["tMejCRD"].."\114\115"]);local C=((e["\117\110\112"..l[.10892760525873285]..l['j1ZCUNza']..l[.6091266458896578]])or(e["\116\97\98\108"..l[t]][""..l[.6273027964063468]..l[s]..l["BtDCYpSxn"].."\97\99"..l[.6091266458896578]]));local T=(e[""..l[M]..l[t]..l[r]..l[.3391352530285415].."\101\116\97"..l[r].."\97\98\108\101"]);local u=(e[""..l[r].."\121\112\101"]);local u=(e[""..l[r].."\111\110"..l[.6273027964063468].."\109"..l[x]..l[t]..l[.3656145843517103]]);local P=(e[""..l[M]..l[t]..l[.26405322051795815]..l[t].."\99\116"]);local w=(e[""..l[.3391352530285415].."\97\116\104"][""..l[h].."\108\111\111"..l[.3656145843517103]]);local b=(e["\114\97"..l[b].."\115"..l[t]..l[r]]);B=(a[""..l[x]..l[.10892760525873285].."\110\100"])or(function(e,l,...)return(((e+l)-o(e,l))/n);end);local b=(a["\98"..l[E]..l[.3656145843517103]])or(function(l,e,...)return(A-B(A-l,A-e));end);local A=(a["\98"..l[s]..l[E].."\116"])or(function(l,...)return(A-l);end);D=((a[""..l[.3656145843517103].."\115"..l[.14431674226388183].."\105"..l[h].."\116"])or(function(e,l,...)if(l<i)then return(F(e,-(l)));end;return(w(e%n^R/n^l));end));F=((a["\108\115\104"..l["tMejCRD"]..l[h]..l[r]])or(function(e,l,...)if(l<i)then return(D(e,-(l)));end;return((e*n^l)%n^R);end));if((not(e[""..l[x].."\105"..l[r]..l.iLs7uleF.."\50"]))and(not(e["\98"..l.tMejCRD.."\116"])))then a[""..l[x]..l[E].."\114"]=b;a[""..l[x]..l[.10892760525873285].."\110"..l.bR1Rs51bV]=B;a["\98"..l[s].."\111"..l[r]]=A;a["\108"..l[M].."\104\105"..l[h].."\116"]=F;a["\114\115"..l[.14431674226388183].."\105\102"..l[r]]=D;a["\98"..l[U].."\111"..l[.3656145843517103]]=o;end;local n=(e["\116"..l[.10892760525873285]..l[x]..l[.26405322051795815]..l[t]]["\114\101\109\111\118"..l[t]]);local n=(e["\116\97\98"..l[.26405322051795815]..l[t]]["\105"..l[s].."\115"..l[t]..l[.3656145843517103].."\116"]);local h=(e["\116\97\98"..l[.26405322051795815]..l[t]]["\99\111\110\99\97"..l[r]]);local U=(((e[""..l[r].."\97"..l[x]..l[.26405322051795815]..l[t]]["\99"..l[.3656145843517103]..l[t].."\97\116\101"]))or((function(l,...)return({C({},i,l);});end)));e[""..l[x]..l['tMejCRD'].."\116"..l['iLs7uleF'].."\50"]=a;local e=(z);local t=(#p+L);local r,s=({}),({});for l=i,t-c do local e=y(l);r[l]=e;s[l]=e;s[e]=l;end;local h,c=(function(n)local a,l,o=d(n,c,Y);if((a+l+o)~=V)then e=e+q;t=t+W;end;n=f(n,G);local e,o,a=(""),(""),({});local l=c;local function x()local e=u(f(n,l,l),S);l=l+c;local n=u(f(n,l,l+e-c),S);l=l+e;return(n);end;e=s[x()];a[c]=e;while(l<#n)do local l=x();if r[l]then o=r[l];else o=e..f(e,c,c);end;r[t]=e..f(o,c,c);a[#a+c],e,t=o,o,t+c;end;return(h(a));end)("PSU|2541110101127510151527627d101717101c1c2761v1M1927622C1z1I101b21p21m1j1V23E1O27H1022e21R1Q1q1b1e1921Z1y27E21C21t21d22Q28b27E21R23j22N1Q27C1022D1h2191422N2101N1z28h27e101v1N1827622a21p1R1L1L1T16112351s132762321B1i22D28x1023K26v21j28g27e23K26H21522E1m1x1x2762782772791029w101h1h27f1724k25227S101K1K1012121329e2772A02A12a31s1s27d1i1M142761R1p121X1Z121H1J1218181I1K162761615131i1o1a2b912142b62b8101613151i1H2Aj2B829a17161E1C1229Y2751m1m27d29z29Z27621d21i172852Bl29a13122c51021D21C112ca1B1B131Z1w28Y2752782am29x2ao2Aq2aS2AU2aw2Ay2b02b22B42Bj2B92Bb2bd2Bf2bl2bh2d42BL2bn1I1r27O2bl2bL112BU2bw2by2a0102C12C32cR2A12C72C91q2aF2cE2Cd2Cf2cH2Cj2dV27b29z2ag27d2e528Y2E72dQ2Bz2Dw28y2762e52C51v28M2762342b21d1022w2At101i2Ab101r1r2dN2Cr2Eb192dG2DN2E92cl1321221127L1R2eP22B27w27Y1f1G2762251Y1q161M21321j2751r1122N2392171o1P23529127622d1s1A2181t1S1b1n2311L2D822c21D1t1C21i2fm2et1122426i21R23W22r29224G23Z1w1J27K1021v2G12G31N1w21f151d1s1622929K26823R21322N2F82fX28Q1423629d29f29H22W2H91021Y2152Cj22z2hi2G92gb2Hn2ep2gT1b1123e1P2bK21U2gE2fO2351T2dm2cp21r1k1b27P2Ga1c1z2111J2A61l1121y29k1021Q23i22n2fw1022821r1s1q1t2991123c28v2IJ21823029p28y21s22n1H1E2i92gB2181P2191528813181b1q22e2ij2F72eP22621B1C1823e2ei28o2HB22n2192fD27621u2az181C2981Q1r1A2132182ai1T21t2182hi2242152BC22z2HX2762Gt2K92kB2Io2212131T171l1F1D1623e1i2eM102Hz2FN1122622R2GU2G42282ij26O25R1t24a23426m1621G102402571w2hI21X2171r1o2361v27d1v2g72J81c21J2K8132Ka2182iO2Hp1c2132fb27z2812Gt2751B161N2KH2bK22821d1j1N2Jh21f21Z2761i192EV2eT1o131X1Y131h1I2jf2B52bq2Bg1429Z1v2HE2Eq2MP2au1V141X211141H1L142D31G2dm2Bm152N42HI23o23Y2D81P1s152aG2Ez2EE2dM101d181521d2131M1Q1p1327j2C42bU2761h21H2101J1G1316161i182dv2et2991x213161H1N162d32CX2Di172aR2EP2bV2b52OX161F191118191n1h2Bk1h191O2Og2oi2ok151N2AU2op2Or2OT2ov2B51c1U2b92DJ1i2kr2B91E2B52px2Bl2p62Pw1l2b91c1a111B1A2Pb2pd111g2Ph2oJ1I2pK2pm162OQ2OS2OU2d32q12Bt2Db2p22q42B92q31T1F2q62q82qA2qc2oC2A62qG2Ok1d2LR2oo2QL2pO2OU2ez2qM2pp2cL1H1O192r51I1v2kY2bs2cr1o1v2811I21e2cp2bl2pz2DJ2oV1e2PQ1h2k52RK2oM2qK2re2Qo2B51f1T2pu2OZ2Sa2py2S92sB2q22p72p92r22A421c1X2R52mH2fH2o72ER21D21R1E2O62mw2MX2r72S62RB162aD2s7161P1P1h151K2sP2O41Q1u142aO2Od2Of1n142Ai1I1l2811R2PN2qN2Pq2QU2oY1I111J2sf1119182sl1H1k152mI142OJ2mU2mw2Ou2782qM2iS161Z1z1617279142jp29z2e32U11A1c2Bk2E42NY2e92E62NY2eB2f12ny2ai2ed2uW10142Ep2c42a12dR2aK2Dn2Nw2eB2e92cF2Ux28Y2v62EB2cF2vA27929z2vD2V027D27g2Ac2AE28z2Js22U1A29e1T2l72Ed2Vv28N2EK122eM22629k25C24n2h72jS22R2kt1C1T2332i32761w23f21W1u27922g21Z2n629G1i22w2Io2252101721k21j1d1p1g23E2jX1021t1z1h29d1p112Od2Ir2It2IV2FV292102252JA21a2x12X323e2HI2312K21s23b2gq2762x82xa132XC1H21I2m62wo27622L21u2Io2382Fo2Lo1F172G52Hi2fa27x2Jr28n28p28r22n1G2iJ2IL22n2wJ102i52ho2ia21Z21F2VK2A127S2AB2Uj2V82cd2mn1n28n2bA13112DY152ep2RL2rn2bn2CR2P91127B1h121j2zO2a01i1p2i82eT2ev2A32a52Aq1s2j72eT1q112D72Cy2Ce2751V2Y52eq2Zz31051i1q2xJ2LO2zA31072ys2Cr2Zd112ag1x1w2Ry2Zb2zA2ah2ZB2dm2D02B11227j310W2B22oj2cr2G2310M121i310B2Et2AW310d310f2ms2n4310J2772qA31152N42R82772cd1f2qY2mN2Nj2Au2Ev2oJ27D142Nm2aG2zK2n32dy2752vp310m310H2aQ122Fe310111310O2XD1G2dJ2Oz1j279161431162zs2AU2ms2Ua2mX132v611311V311y2762NC2nE2Ng3112310T311v312u210152u4152rD3132313431122zD2NM311V2bo312f2b92DD2n12dH2BT2MC1k2Aj1I313E2d92bI2Mw313F313b2PK1m2791h1U1F2Zp2CS2752VF2A12vH27e2Vj2eW2v92EW2Ey2f02UU27D2b4111n2C228Z2Y92YB1O2YD2G52J6276231121P1J161C2MA2mC2iv2242W92Wb22n2KX2FX2121m1N21n2131U2nM1W219191l2yj2Ha2ym2192XW2XK2fh2FJ2Fl2L122N21a315L2XY2XB2XD2Y32yi2VW2VY101t2g62d821W2191Q1G314w27t2MC2Jj2W22eH28n2we1d2wG22A2yp2iM31092WQ2WW2xm2xO2x41E2A6102361n2ez2bI1m314V314x1N2xH2js2w52em2372yG2M62ww2wy2x02X22X42xR2XT23B2X6315u2y02xD21H2Xf2IU29A2352LL2LN2lp2WS29H21T21I312U29X1H312C2tM2t3310531102ah2MT2az310x27b23o24X21H2761c1d311527B2mN2EQ2Au3102312a3180312D2Er27D2aV31162rm312L31241v2ys318Q318V2MY316t1r2na2n42n6310u151731862D0172NU311X2a02Ah312u2Mv312o2U9319I2my2O92CD1T1v3186318z2Mr2Bc313R2et3194310731962cD1b1931862n4310929z1F1e2791I2qX318l11311T2762u82aG2Dx31062vc182Vn314a2EQ2ox318S31852972de2dG2Z92z12N92Nb2nd2nf141A2Q8312Z28n1x31372u52O92a02ob2A22t22zO2T52o9313c27a2QH2Df2b92BL1i311q2oY31AD2YE1J2ze31Bk2dc2Bo312K313I2ry1n1l2DM1h2qe1j2Tw2aG313n2791R318M310P1S1t2p831aL312131AL2mN311831CA312931CC31CE314f31CH2Vn31422nY2vs29727L316O1p2xn317d2xQ2ep2xs1l1S222316k22n2802Kj218317122Z2lu102kO315b1121d2172q81123f2js2yl28S219316s276316v316X2Ar3170316A3172317p2Wd2WF2wH315Z2vz231317i2X9315v2XE2iS317O29b314k112Yc2ye231314p10314r314t31dx2MB31DZ29b316M21Z31782yi2HI2fg314T28A316D317U29i31512h7317a2Wz316q315h10317510237315t31E8317k2y22Fb22K21l2MN313O2eU2a2317Z2A62d32Be31AC319S318S31a431A931Fq31193116318K319t311e2DM310k2n3310n310p2bu2XD31C32a02z52a231882B22T431Gd310y316911311431C731Fw318s31AW31G0310I31G2311G31B331aj1V311k23O2412Q5101g2Fe2782ad2Mn31aB2cB2dN311N2aq2tX311R31h731af311w31AI2V81031222aL2Aq2Z731aC318n312c31H131AA311o312h311631Fk312M319L1327G3123312t2A231aZ2Ng31B927831302a231b731351931B6313331B8314w313a312r27B31Hr313s319131bl313J1N313l31H531hS2da31BO2nl31ih314h313W1s1d3140278310t2cT2A42a61e1E2an2ap2AI2Z331AF161231392N3312s2eX2782dy310t2cD1N2pl2Mn31Bx318q310q31j32zx2V631J81031Ja312I31jC2Bh2n331ji310u31i031Jm31JO2EQ2B72Mn27S314D31ka1521p21k27l31de2Fa1531aL1N2122iA22Z31f4317c2Xp19314i2Jz2B32k21t2k41a21C2121j2Sa2Mw2MI1B1d1Q22J2iJ221192J531002m32ja2jC2Je2jG1q31kp2XJ2M32M5315Y2Yk2JU2192hI2jN2jP23e310921D21a2i72762241z2bX1d21O21O1d1o1S2G531D92Gs31db31dY22z2JS21y21g2gq2jq31541022b21r2GZ314G22a2L42G22G423131f022w1g311O21u2191t313v1n1X2Fb21h21L1h1t192372KI2iP2MH2Mj31ll31DE28A1H21321I2Tk1V1a2KV2hI22V314v1831EY27D2H52132J227622o172H72hi2hK2Cj22E2GI2gk2Gm2gO2yV2hq31ki21o1q172Pc21i21e2Sa23031eT2fC312722d31563158315A2NM31nN31Np31NR23e2Ys2WL21w315L31Mp31Mr1N21c2i029B31DE2m32lX2kL1H2IJ22H1P22n2X631kV2K12k32k52k72KL21831M131mO31mq318g1N21D2LY31622IO2fy2G031mV2G531P11021R315l2gT31q32Gx2Gz2H123031N027631p531Pv31pX2CJ1L182uk2w02IZ23022n27n2Lv21K21931Hy31Nd317R2LO23631nF2kk2Lz2kB310922l23j31d72kn2Kp2KR2kt1631nX27d22X21531pj31272Fg2fI2Fk31P92FQ2fs2fu31pB2Ia2gD2l131502Ed2J42Hi2Ht1121z24d24623p26W2N324W2662lk2Ep31DP23631mD22831m831Ma1N112h328Y2l91w2IO31Nl21l315n1m23E31cX31cZ2XP2kD2kF1I316c2Ed25a25a27623O23Q2dM2NS319D2C51i21121j31ik313o1I2z723O23l28N31T72Ai31471i2sE31Bv1i213318D2Eq31tG23W2xj1G1K31k22vS2ec2761D192Bi21k2162aU315B31Ic31341D1d2ZR2Zt2rO31072Js1I31U62T12tS31uc2RT2rV2bT2N431Nf31uj31u72et1S171X21231oJ1m1731un2ru2Tz310731MD31uT2Au1J181X215181H1p1831v331Up2P62N42iO31v82et2mo1X214192rh1931UN21J2f62Bl2Q72n431qs2Eq31UK2eT1H1A1X31DK2s21a31uN31bx161d2Hu310731dE31vn1R1g1B1X2161b1H28631uN21r2192b92ur2n431Ps2DT1Q1V152uh2c4316h2Oc313Y1j1M1527j1I21H2132AU1n1c1x2191C31nb318F31UD2qQ31L72tu2Rz31xp191f111e1f1N1R2gR1h1f1U31x731X91C2db1R31xF31xh31xJ2GB31UN31Tb2b931xo31fz31xq31YD2BL31XS1I21N2152b91M312c318031xX31xZ2pf31Y327J31WY1H1B2EU313x313z1o1b31iI31Xc31Xe31xg31XI31xK31Un1x2yY2BL31XO31zC2B9181E1i31ZG31yJ31XT31xv31YS2Oc31y11J31z331xa31K92et31y831Z931Yb31UD31yi1631Xo21L21731Zh31Zj320131yK313h2FJ31Yq1G31zP2a431Yu31ZT31y521G21231z731y931XK2t431ZY1C31jN2T92Tb320h31xB31xD31Zw31z831ya31XL31TA31TC31ze3200321231yh321531XS31XU31XW31Xy2OC2h031ZS1B31zu2bk31Y7320y31ZA321431YE31ud31HB2Bl31zI32112B931YK31yM31YO320c320E2Pe2pg320h21d21F121q31Yy2B421d21g1532241b21021031Wy1g1a31gV31Z11J1p1A2cL320V320L320p31zB31zd320231ud1y21c32061I322u321S31Zn321A31xz31zR322K31yw2SV31671a21j21J31y631ZX320Z31YC321531xO3201321Q32081f31yl31yn2Bl31yp312B321x31yU32341C31wY1J2dG322i1q19322m31Z6320x320M31Zz31ZK322r31Zf322r321q31zl16321831ZO321B2a431zR323y31yW32221Q323V21f21f323B321j3244320131xO321O3216322Z323L321V323p324e321y1j324h320I320k3242320P320o320z21b21B320s32511931XA21f29x2BL31wV2771o1L2kY2oL2on2rZ310U1O1n311O1I21m214324X316H182uM31H11h171M325c31xa3241321i32433210324A3247322w324A324C3231321C1S3265323t3228324k19322C1i320J322o320Z31jV320p21I21i31b0326J31wY2H127j322I1L2Ba2bo1Z21D326R321K321R32131I21O21a32061131A7321X21F1y1j327331YW2c82IT17327131x61K17322M32763278324q323F31ud327d327F327H324Z327j1J327t327n2c92OL327R313Z1r1831b21I327w3255323d321l327b3281321p31A8328331xz3285328D31XA319V3268320P21e21E32692rd31Xi1s316821g21g2n4315l31Il2eT1M1D1x2182H01h1d31Hq1B1p322z32191n1q2KY327g1e131D310031Wm31WO313Y2182181X21A1F326I1F31B231jb2V51L326227h31J61031B22v52at27j31HI27o29z31uC2Qe31w515311o31kc28Y2b4121o2On1y31qp2H82EP31o731Ll31oe1c22Z31q521R31rR2gb31pD31r321831pk2k031kx31Kz31Pp31R331Pf31eZ2Aj2wT22w31R131PY2KB31sw2KG31r92kq2KS2kU31RE27631SL31ej31lG2jb2jd192jF2Jh2hR31dA2hU31F722431qV17192W828y2yq31qY2lp311K1V31lu2JO31NW2H42h631qR2Dg2M331qu31qw23731DO31Ls31Nf2MG31l632AZ2f92Fb21Z31oa2gl102Gn31sM31lN2ia31lp1v2212182mn31GM2cZ31gG27G1i31832BL2bB31G12c627r1q1o1231j62c4319g2a432632ie319r310E318V312N2My32dI1a1O2N21i32e531Ik32E931By2BU31IO2Aj313432dY2TM2q1310g32e231Hy2oZ31zv31Jd2Bi324T2Dd32EO31bm31h631uq2UJ32ee2oc2Mc32eH2BC312632e131hx2ud31hX31UC318o32F12Bp2Br32dM325j1S2Ze319v31Iu2aH2JG2bN31332B232Fa32e0319T32El32dI31wc2da31Wc2dD31WC2oy313K32EF2Ng32f121D2141p32Dq2dM1i32F332fQ31Hx310z31hX2ez31xk32F132Ao2Vg2Nx2Dn28Z315L2371m2ot1f151p2kx1E31x722o2ZE2ES31fL2c42Vb2Vo314c31Cs27D31b22F431vX1V32bx2Ia31LH32C032c231ll32b332B02Me31Da31pe31d732Cf2lq27D32au27E31NZ31ri2jY32bb31Pn2K632bM21831MY31Mn2L02gf2l32l52G52iO2iq31EB314z2lc2lE2lG2Li1W31NF32I12i131MD2m931Mg32Cu315J32cJ31LW32BO1i22Q1n1U32B52lw32Hx32bq31rB2kU31D132c52hV31q02fZ32I42w127E31SL2Hi31sB2M232d932D12Jk1032HP2j322N32Cw31nH2jh31Sz27D2j032Hs315m31rL315P2Gf31ro2Ft2gH2Gj32D432D631q832I431qB2h01623031ps2m32Ic2ie102ig23f32IU31rt2GF317q32d031eu32ax2hl1Q21D21x2mN32dK32ek32gD191i21C28h32EP3195313M32Kp2NA312v31b02ez1I14314i31IU31072HI21D1X1G2sx32aj2cr31I7329f326I2OH31iI313h1R31U931I932L32t0313I2KX2R82QR32lq2p22u02U22qi2oc31Vg2ph31Ii31h632lM1531Ua2u532L31U2gr2Bs325N2SC32MD2Rw2B52S52si2p82Pa32LZ2a428632m22BO32m432LN31iD31Ia32mf32Mc2TO32me32mI2qT2P431VK2sk32MM1H21E1z32mp31TF28N32M532M715322c32NC2972ti32n8313O31iu325j1U2bk2Qs2dj31ih31vh319831Oj32fn32lJ2bO32lL32ms313432l32QJ32lr32O12Qr32o32RX2U11n32n42zN32mP32G332G52o72Iu21D1g1X2sx2eR32n931u832M631i9313132Mt2A52ZX32oB32LB2te31B11a32lh2U72tm32EB32nB32lo32Ks32Mz31bM2n831BP32Ex32n421D2GP2Tk27B312n2U51u1U31IC1S1p2jD2S02BK2V531hY2uu31Bq1A32GQ2ve2ny2a51221S21U27632jG27d21g23832JP31Rk315o31RN2fR32Jv2l825R2GP2Gr21v21D2tk32a732Js2I132Ip32Jm27e1V31pS32c81o2O51121N21p31n523131W132cQ32C931Nd32kD31P931rv27D21s21H21h31532Ky22F21q17322l1O22f31mu2Gv23131sd21d27c1d32CA23C31q832QH1432A721i31Pu314g22822K26p2391H2721324G23T1T29k28D21D32Aw2762Lm31qZ32jJ32cY32Hi1022C21N29231A132J02Hj32Kk32C42JT28R23631Ps32QG32qI1H21532R132ct28n31Mj31ml32bu25c24l21132SB1031LV2JQ31r12122Jh2OT23132I6317N314Z22522I21v19319925826x32D72lV32Da31Ss2Xj29429629829A22424u2482661831gz26G1w31kt32Ht31KW32HV31L131L31T31L52mJ31l822u32hA2j932Bz31LJ32c332iU32B72m032Hh32ba32ua31KY31Po32hX31oP21z2451s2142701d22u24b24W1W31F022D26w26R25K1u2511124G25W1w32il28s2YO28y1g22832t81W22q32N732j627D21a23232cO31Da31qk31Qm31gj32vT29l25c1031o129l29n22N315l2fY1521131OI31QU32Qs310231lM2762KO32br31rC21Z24P25521523j26U132282721W32ii31mf31Eo22e26J27121L21924921N21m23r32ie2Bk1w23821P1t2rI32BU29r31Rh32K031QA2GY32K3230311k32q22761822022n1C2tY102202kP1r327l31qk1d21931li32C131lK22z31W122B21o29932qv32QX32J331Q232rj310921O1z31Md1w23b32rD32rF31mZ311O32sv32Rt1h21221b32gR32gT31X723F32Bl31PQ32Hg2hS21832c631nF21Z2141R1S325d2322cE2EQ21P21B318431gg21121131XP32dM31Gq2Mn32ZF32F42Mw2my32zj31xP2bH32Kx32Zo32Zg319W31aY312W1432Zt32MX31bV2nn2ze32Zp2et32nY2U532ZT32Fp31uG2w332zX31UL2pp32zt21421m2sc31Ur32nn330832z931UX31Uz1h31V1330J330L32mg2n431V7330P31Va31Vc31VE31vG330v2qv2p7310731vm330p31VP31Vr31VT331531VY31Dl28Z31w12rP32E82MN21A21o2b931We2q91a1812322L31wo32f02zM31b22C42qa2oc31C4331X1A1I21821q2aU31W531w732oX2k532zt322Y2bl31wE322x322V325H31Y5332E322S11318f31722D81H32853323322n31W431W631w8332C32ZK21I210331o29h31hm332j32oL327b3334325p327H1T332Q18314t332T32673329332X1a32zT3338332G2122lG3335333831Xo31WS32821e332P2oc32N632Dy31b221D212329M2OL31b231C32Qf328d31c7321o1r333H332B333j32zk333L29H325V31wu314W316h333V2A421021H1j328d331Y325J331k2eq321U332f2hu2qa331s331U2pC1n2pH334431c42Oh31c733263328332w334c32Zt318U334W2ZF334i335f3213332N1d334l332R327K2Oh328f333G335A31W9333k2z8333M333o162UR3336322S1i21q32dd328N329P335L333X335O1a3340329m2h133542QF32732TM3349334B335S334E335u334g325W332J11334K333B2OC334N327L335X3369334131Wz31332a531c431X82tM3358332v332a336J335H31wD29h335D335x31Y5337b31L7335J335L328531X8333Z21B1U336Y31c7335Q3376332Y326P32543379335Z335Y32Mz31xo333831ZI3365336R2a4333d31Y3333Z2192iS31X031j6332U334A335R337R334f319S337c335z31XO2es3339333u338232N532n7337j332432M4336I2K52ER337Q1a21t21T2BQ313N338Q32OG32Oi31X021N21N332533273375333i32zT31To337u339d335Y339d337F332o338N32pB3385336921631CA31x02c6336X323v336D325C31II336H338D334D335z332G334h336o336q332q336t323y334R111O334T32453332331Q334Z2Rg32F02TK339u2tK33733399338C338w32Zt31iT332g31It335y31It339I335K338N328533aI3369337l32oV337O320W33AN339B336K333232L432L6335y333Q31UD3362333t336632n733AZ31Ij339A334C338V333i21s21s33902U7328f21921r2qZ2rp1j2Zt1I210317x336O334y331T32712Sn33br3324337433b5335B32zK33aq29H33aS31Y533aU318G339j332Q339L33AZ21D339O32OV21621633bJ33Ca31w931Gv338W2v62j61V33C7336a327p339U327T2V62TW32Xv33ct338e336L325U336n337C336p320q338N336t327T328F330p338t339Z2QQ331p31wG2D81i330P31WK329U31WP1b32Zt328M33DD310731pS31ua2GB2UD3291316821d21d31AE2v51a329Q29e318I2e5331y31A731NR2gr33D1322f2172173345322J1a335733aM323C31XK33Ap2Nk31xO31it321Q31IT326F327i327k323S21D33B1322F33b3327x1C335t321M335Z321Q1W21e324V3338323O31Yr324z3384323S338B33ET2gB33Fb327B333n322w333831yk31Bu320B324Y31Xz333X323S33Eo31Z3328f32m433FP1c21K21k32691O1o32sX21K321e31xa33g6324p1C21l21l32692oJ1H21421L33GG31Y5334933g733fr3360323H328o333U324Z32MO320h29z1U1i32MB2UK31Af31vu29Z33442MY27X31xl31HT33h9318G27533442Gb33he31Uc2z933HH33HB32Ox2tA33HM2ku2Bh33Hp33hJ32ox21821p33hT29Z1l1p2GR32aO31b212319P2jL27632TA2hW2Mf32jk31LL32wa2Nt32WD2WZ21932wG1132Y72dg22b21C2Ot27t21521e1s23A32us31pM32Uu32Hw32hk316D315l22c21H1328821x23033IL32Qt32qN1031sl31MI31mK32Io32KH27y32CF22729K23c26J25V32ji2bk31R22Ka32BG27e32VN22n31de32Xx1T32XZ2Ig1Q325L31Ne2Bk32Rc32rE1b1O22d24U2151E21G21d23822F24y32v732bi2hg32RL32RN32Rp32QQ33Jb310232yC32rx22L23G1F24S26J22u24t25B32tr2ip32Ti317p32U82kz32Hu33j032Uc31L42B132UG1q22u31mN21Y32YV1021431LT2ou31eP2Xi32wJ31Ra32BS2Kv32wx1t1n1y33iv23A31Nt31NV23E32Y832yA1633ku2yF31sa2Hb33JM32Hq24621i28l31Lr2YM1C339932e832E631Fx31852A532fB2D5318W318y32p131hw32ZR2sy311b2N232ZW2eQ32p132L031i32ne2Mx31It2zh32L82eP32os2zM27832Mf32P232mT2t732f92ZM27B33e7102sX33Go312c2Ph31c732Ma32om32NC33mo330432MW2812Qr33nv32O632Ly28N326x32nV2O32O52o732Di2ps33Ns31I933mO32dK32MC33382Pv32g92Qt333832n232mL33O232rt32n833O9330932ON32OQ2Mx333831bm31WC2pV33382Pz31tN2Sh2P52Sj33OL2Oc2rI32MP32F933aK2bc31GM330A2Pk31N631i931j633512u731ii33pb33OR31342EU32Nc2Zo31w532xZ32Pd2BO1E2ap33oq33NT33oT2z831bM337B32np32P933o22bC33pI2Nm2751u1r2Z832Po312I29A2752AI322I31X831122751l1g28n32ao2ef27927m2DG32yR32A733lY1s2312v733Q82PT32GJ31U2314w32os2Ty314131u110"),(#p-Z);local function n(e,l,...)if(e==34320638)then return((((l)-32607)-143564)-965147);elseif(e==471145386)then return((o((l)-69744,171278))-161687);elseif(e==519356957)then return(((o(l,48129))-108152)-170346);elseif(e==517777646)then return((o(o(l,33464),71146))-52590);elseif(e==514860699)then return(o((o(l,227289))-971282,16364));elseif(e==290615732)then return(o(((o((l)-877929,746567))-644274)-244580,634179));elseif(e==106423349)then return((((l)-264487)-237367)-369953);elseif(e==867340535)then return(o(o(o((l)-446696,77827),953319),549584));else end;end;local t=l[((#{405;(function(...)return 354,...;end)(597)}+252363695))];local x=l["cMcfSP"];local u=l[(198291497)];local r=l[((#{492;}+312483632))];local B=l[(576899175)];local n=l[(392657966)];local A=l[((#{285;326;895;}+782605972))];local i=l[((#{[676]=736;932;(function(...)return 737,186,...;end)(0)}+288944148))];local E=l[((#{69;878;(function(...)return 755,37,...;end)(952)}+604177155))];local function a()local r,t,a,l=d(h,c,c+r);r=o(r,e);e=r%n;t=o(t,e);e=t%n;a=o(a,e);e=a%n;l=o(l,e);e=l%n;c=c+i;return((l*x)+(a*E)+(t*n)+r);end;local function x()local t,l=d(h,c,c+u);t=o(t,e);e=t%n;l=o(l,e);e=l%n;c=c+u;return((l*n)+t);end;local function r()local l=o(d(h,c,c),e);e=l%n;c=(c+t);return(l);end;local function i(n,l,e)if(e)then local l=(n/u^(l-t))%u^((e-t)-(l-t)+t);return(l-(l%t));else local l=u^(l-t);return(((n%(l+l)>=l)and(t))or(A));end;end;local z=""..l[B];local function v(...)return({...}),P(z,...);end;local function W(...)local D=l[((#{454;[276]=322;427;(function(...)return 750,811,57,740;end)()}+198291491))];local j=l[(873371300)];local R=l[.7867131604751167];local n=l[(782605975)];local C=l[(392657966)];local W=l["pT3lS9LMc"];local M=l[(621392322)];local B=l[(783953344)];local y=l.nWnuWSt3A;local G=l[(980840762)];local Y=l[((#{661;926;(function(...)return 607,263,659,816,...;end)(322,178,190,943)}+254051233))];local q=l[(201379827)];local L=l[(798959759)];local U=l[((#{85;(function(...)return 386,800,991;end)()}+75540354))];local P=l['nskU63XQ'];local z=l[(428227235)];local b=l[((#{566;287;}+534817316))];local A=l[(424363728)];local T=l[(695984961)];local p=l[(288944152)];local Z=l[((#{560;249;790;(function(...)return;end)()}+32856680))];local E=l[((#{}+666711844))];local F=l[((#{759;[408]=939;488;(function(...)return 898,213,490,...;end)(150,175)}+312483626))];local l=l[((#{610;(function(...)return 126,889;end)()}+252363695))];local function S(...)local t=({});local w=({});local u=({});for l=n,a(e)-l,l do w[l]=S();end;local S=x(e);local V=r(e);for x=n,a(e)-l,l do local u=r(e);if(u==Y)then local l=r(e);t[x]=(l~=n);elseif(u==P)then while(true)do local o=a(e);local e=a(e);local a=l;local c=(i(e,l,y)*(D^R))+o;local o=i(e,U,E);local e=((-l)^i(e,R));if(o==n)then if(c==n)then t[x]=(e*n);break;else o=l;a=n;end;elseif(o==L)then t[x]=(c==n)and(e*(l/n))or(e*(n/n));break;end;t[x]=O(e,o-W)*(a+(c/(D^Z)));break;end;elseif(u==E)then while(true)do local a=a(e);if(a==n)then t[x]=('');break;end;if(a>T)then local n,r=(''),(f(h,c,c+a-l));c=c+a;for l=l,#r,l do local l=o(d(f(r,l,l)),e);e=l%C;n=n..s[l];end;t[x]=n;else local l,n=(''),({d(h,c,c+a-l)});c=c+a;for c,n in k(n)do local n=o(n,e);e=n%C;l=l..s[n];end;t[x]=l;end;break;end;else t[x]=(nil);end;end;local o=a(e);for l=n,o-l,l do u[l]=({});end;for R=n,o-l,l do local o=r(e);if(o~=n)then o=o-l;local f,C,c,E,d,s=n,n,n,n,n,n;local h=i(o,l,F);if(h==D)then c=u[(a(e))];s=(r(e));f=(x(e));elseif(h==B)then c=(a(e));s=(r(e));f=(x(e));d=(x(e));E=({});for o=l,d,l do E[o]=({[n]=r(e),[l]=x(e)});end;elseif(h==l)then c=(a(e));s=(r(e));f=(x(e));elseif(h==F)then c=u[(a(e))];s=(r(e));f=(x(e));d=(x(e));elseif(h==A)then elseif(h==n)then c=(x(e));s=(r(e));f=(x(e));d=(x(e));end;if(i(o,A,A)==l)then d=t[d];end;if(i(o,b,b)==l)then C=u[a(e)];else C=u[R+l];end;if(i(o,B,B)==l)then c=t[c];end;if(i(o,p,p)==l)then f=t[f];end;if(i(o,M,M)==l)then E=({});for l=l,r(),l do E[l]=a();end;end;local l=u[R];l["aOeR"]=E;l[900598.1161113251]=f;l['P23rO2Hpt']=d;l['h6r']=s;l[-j]=C;l[G]=c;end;end;return({[q]=V;['vyqhD']=S;[641857.2169723898]=w;["S0VMjh"]=n;[-z]=u;['dTBrczJC']=t;});end;return(S(...));end;local function d(l,f,x,...)local u=l[641857.2169723898];local n=l[302201];local e=l["dTBrczJC"];local c=l[-751382];local e=0;local i=l["vyqhD"];return(function(...)local l=(true);local t="P23rO2Hpt";local l=(901693643);local F="h6r";local o=900598.1161113251;local a=c[e];local B={};local D="aOeR";local E=({});local A=-877098;local e={};local s={...};local h=(P(z,...)-1);local r=-(1);local c=666129;for l=0,h,1 do if(l>=n)then B[l-n]=s[l+1];else e[l]=s[l+1];end;end;local l=h-n+1;while(true)do local l=a;local n=l[F];a=l[A];if(n<=15)then if(n<=7)then if(n<=3)then if(n<=1)then if(n>0)then e[l[o]]=f[l[c]];elseif(n<1)then a=l[c];end;elseif(n>2)then for l=l[o],l[c]do e[l]=(nil);end;elseif(n<3)then do return;end;end;elseif(n<=5)then if(n>4)then e[l[o]]=e[l[c]]-e[l[t]];elseif(n<5)then local r=u[l[c]];local a=l[D];local n={};local c=T({},{__index=function(e,l)local l=n[l];return(l[1][l[2]]);end,__newindex=function(o,l,e)local l=n[l];l[1][l[2]]=e;end;});for l=1,l[t],1 do local o=a[l];if(o[0]==0)then n[l-1]=({e,o[1]});else n[l-1]=({f,o[1]});end;E[#E+1]=n;end;e[l[o]]=d(r,c,x);end;elseif(n>6)then e[l[o]]=e[l[c]]/l[t];elseif(n<7)then e[l[o]]=l[c];end;elseif(n<=11)then if(n<=9)then if(n==8)then local c=l[c];local n=e[c];for l=c+1,l[t]do n=n..e[l];end;e[l[o]]=n;elseif(n<=9)then local l=l[o];e[l](e[l+1]);for l=l,i do e[l]=nil;end;end;elseif(n==10)then local n=l[o];e[n](C(e,n+1,l[c]));for l=n+1,i do e[l]=nil;end;elseif(n<=11)then e[l[o]]=e[l[c]]+e[l[t]];end;elseif(n<=13)then if(n>12)then e[l[o]]=d(u[l[c]],(nil),x);elseif(n<13)then if(e[l[o]]~=e[l[t]])then a=l[c];end;end;elseif(n>14)then f[l[c]]=e[l[o]];elseif(n<15)then local n=l[o];local o,l=v(e[n](C(e,n+1,l[c])));r=l+n-1;local l=0;for n=n,r do l=l+1;e[n]=o[l];end;end;elseif(n<=23)then if(n<=19)then if(n<=17)then if(n>16)then e[l[o]]=e[l[c]][l[t]];elseif(n<17)then if(e[l[o]])then a=l[c];end;end;elseif(n>18)then e[l[o]][l[c]]=e[l[t]];elseif(n<19)then x[l[c]]=e[l[o]];end;elseif(n<=21)then if(n>20)then do return(e[l[o]]);end;elseif(n<21)then if(e[l[o]]~=l[t])then a=l[c];end;end;elseif(n==22)then local l=l[o];e[l](C(e,l+1,r));for l=l+1,r do e[l]=nil;end;elseif(n<=23)then local n=l[o];e[n]=e[n](C(e,n+1,l[c]));for l=n+1,i do e[l]=nil;end;end;elseif(n<=27)then if(n<=25)then if(n>24)then local n=e[l[t]];if(n)then e[l[o]]=n;a=l[c];end;elseif(n<25)then e[l[o]]=e[l[c]];end;elseif(n==26)then e[l[o]][l[c]]=l[t];elseif(n<=27)then e[l[o]]=x[l[c]];end;elseif(n<=29)then if(n>28)then e[l[o]]=e[l[c]]*e[l[t]];elseif(n<29)then local n=l[o];local o=e[l[c]];e[n+1]=o;e[n]=o[l[t]];end;elseif(n>30)then local l=l[o];e[l]=e[l](e[l+1]);for l=l+1,i do e[l]=nil;end;elseif(n<31)then e[l[o]]=U(256);end;end;end);end;return d(W(),{},j())(...);end)(({[.14431674226388183]=("\104");[.10892760525873285]=("\97");[(312483633)]=(((#{546;[64]=743;410;223;603;}-1)));["pT3lS9LMc"]=(((#{525;755;164;}+1020)));[((#{[898]=443;787;344;239;348;(function(...)return...;end)()}+329373924))]=("\101");["BtDCYpSxn"]=("\112");[(351422539)]=((482665485));['nskU63XQ']=((34));[(944402234)]=((446890260));[.6024623450834594]=((211369194));[(254051243)]=((22));[(211369194)]=("\102");[((#{602;255;}+374792683))]=("\35");[(288944152)]=(((#{}+4)));[(392657966)]=((256));[((#{729;686;683;597;(function(...)return 822,296,862,31;end)()}+310548746))]=((776488787));[((#{616;609;(function(...)return 792;end)()}+695984958))]=((5000));zPG8zrp=(((#{[788]=246;[367]=578;986;790;992;(function(...)return;end)()}+329373925)));[((#{470;333;}+980840760))]=((666129));[(873371300)]=((877098));[(30567195)]=(((#{480;}+85)));[.3656145843517103]=("\114");Ty7Xi=(((#{505;(function(...)return 678,874,653,...;end)(411,328,244,828)}+201)));[(39233639)]=((952422752));[.7867131604751167]=((32));['bR1Rs51bV']=("\100");[(446890260)]=("\110");[(783953344)]=((5));[(509669604)]=("\119");[.9073360412881412]=("\50");[.8542044320396168]=((536106446));[(32856683)]=((52));[(201379827)]=((302201));[(936958299)]=("\111");[((#{(function(...)return 534,141,877;end)()}+36270401))]=(((#{[335]=725;20;48;[384]=327;988;}+33)));[(252363698)]=((1));[(666711844)]=(((#{553;849;848;922;}+27)));["nWnuWSt3A"]=((20));[((#{517;819;412;}+534817315))]=((8));[((#{[844]=433;758;307;415;52;(function(...)return 637,998,495,48,...;end)(668,775)}+730238136))]=(((#{515;[908]=541;897;582;690;(function(...)return 173;end)()}+243)));[(732949992)]=((90));[(523333576)]=(((#{750;(function(...)return 883,...;end)(724)}+182)));j1ZCUNza=("\99");[(428227235)]=((751382));[(604177160)]=((65536));[((#{126;576;577;[102]=123;[245]=202;348;(function(...)return 375,482,716,...;end)(460)}+482665477))]=("\120");[(424363728)]=((6));['iLs7uleF']=("\51");[(576899175)]=((374792685));[.6273027964063468]=("\117");[(952422752)]=("\98");[(401603049)]=(((#{[49]=601;223;(function(...)return 203,914;end)()}+936958296)));[.26405322051795815]=("\108");[(776488787)]=("\116");[((#{208;}+798959758))]=((2047));cMcfSP=((16777216));["tMejCRD"]=("\105");[(198291497)]=(((#{[486]=557;755;90;658;256;(function(...)return 612,71,...;end)(187,265,577,329)}-8)));[(536106446)]=("\115");[(782605975)]=(((#{}+0)));[.6091266458896578]=("\107");[.8848378359735188]=((509669604));[((#{476;}+621392321))]=((7));[.3391352530285415]=("\109");[((#{852;957;}+75540356))]=((21));["MZ453qmqGC"]=(((#{[303]=450;445;500;}+163)));}),...);
+local Library = {}
+    
+function Library:CreateGui(Gui_Name)
+    local CoreWindow = Instance.new("ScreenGui")
+    local Main = Instance.new("Frame")
+    local UIListLayout = Instance.new("UIListLayout")
+
+    CoreWindow.Name = Gui_Name
+    CoreWindow.Parent = game.CoreGui
+
+    Main.Name = "Table Layout"
+    Main.Parent = CoreWindow
+    Main.BackgroundColor3 = Color3.new(1, 1, 1)
+    Main.BackgroundTransparency = 1
+    Main.Position = UDim2.new(0.00789889414, 0, 0.0145772593, 0)
+    Main.Size = UDim2.new(0, 1246, 0, 366)
+    
+	UIListLayout.Parent = Main
+	UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIListLayout.Padding = UDim.new(0, 4)
+    
+    ------------------------------ [ Window Library Start] ------------------------------
+    local WindowLibrary = {}
+
+    function WindowLibrary:Window(Window_Name)
+        --[Frames]
+        local Window = Instance.new("Frame")
+        local WindowBar = Instance.new("Frame")
+        local WindowTitle = Instance.new("TextLabel")
+        local Toggle = Instance.new("TextButton")
+        
+
+        -- [Corners]
+        local BarUICorner = Instance.new("UICorner")
+        local TitleUICorner = Instance.new("UICorner")
+        local WindowUICorner = Instance.new("UICorner")
+        local ToggleUICorner = Instance.new("UICorner")
+
+        -- [Frame Properties]
+	    Window.Name = Window_Name .." Window"
+	    Window.Parent = Main
+	    Window.BackgroundColor3 = Color3.new(0.137255, 0.137255, 0.137255)
+	    Window.Position = UDim2.new(0.0151757188, 0, 0, 0)
+        Window.Size = UDim2.new(0, 204, 0, 376)
+        
+        WindowUICorner.Name = "Window Corner"
+        WindowUICorner.Parent = Window
+        WindowUICorner.CornerRadius = UDim.new(0, 4)
+
+	    WindowBar.Name = Window_Name .." Bar"
+	    WindowBar.Parent = Window
+        WindowBar.BackgroundColor3 = Color3.new(0.0862745, 0.0862745, 0.0862745)
+        WindowBar.Size = UDim2.new(0, 204, 0, 33)
+        
+        BarUICorner.Name = "Window Corner"
+        BarUICorner.Parent = WindowBar
+        BarUICorner.CornerRadius = UDim.new(0, 4)
+ 
+        Toggle.Name = "Toggle"
+        Toggle.Parent = WindowBar
+        Toggle.BackgroundColor3 = Color3.new(0.0862745, 0.0862745, 0.0862745)
+        Toggle.BackgroundTransparency = 1
+        Toggle.Position = UDim2.new(0.852941036, 0, 0.175612509, 0)
+        Toggle.Rotation = 275
+        Toggle.Size = UDim2.new(0, 20, 0, 20)
+        Toggle.Font = Enum.Font.Gotham
+        Toggle.Text = "<"
+        Toggle.TextColor3 = Color3.new(0.372549, 0.372549, 0.372549)
+        Toggle.TextSize = 20
+
+        ToggleUICorner.Name = "Window Corner"
+        ToggleUICorner.Parent = Toggle
+        ToggleUICorner.CornerRadius = UDim.new(0, 4)
+
+	   	WindowTitle.Name = Window_Name.." Title"
+		WindowTitle.Parent = WindowBar
+		WindowTitle.BackgroundColor3 = Color3.new(1, 1, 1)
+		WindowTitle.BackgroundTransparency = 1
+		WindowTitle.Size = UDim2.new(0, 174, 0, 33)
+		WindowTitle.Font = Enum.Font.Code
+		WindowTitle.Text = "  "..Window_Name..""
+		WindowTitle.TextColor3 = Color3.new(1, 1, 1)
+		WindowTitle.TextSize = 15
+        WindowTitle.TextXAlignment = Enum.TextXAlignment.Left
+        
+        TitleUICorner.Name = "Window Corner"
+        TitleUICorner.Parent = WindowTitle
+        TitleUICorner.CornerRadius = UDim.new(0, 4)
+		
+		-- [Frame Containor]
+        local Containor = Instance.new("Frame")
+        local ContainorLayout = Instance.new("UIListLayout")
+        
+        -- [Toggle Script]
+        Toggle.MouseButton1Down:Connect(function()
+            if Toggle.Rotation == 275 then
+                Window:TweenSize(UDim2.new(0, 204,0, 31))
+                Toggle.Rotation = 0
+                Containor.Visible = false
+            else
+                Window:TweenSize(UDim2.new(0, 204,0, 376))
+                Toggle.Rotation = 275
+                Containor.Visible = true
+            end
+        end)
+        
+        -- [Properties]
+        Containor.Name = "Containor"
+        Containor.Parent = Window
+        Containor.BackgroundColor3 = Color3.new(1, 1, 1)
+        Containor.BackgroundTransparency = 1
+        Containor.Position = UDim2.new(0, 0, 0.0957446769, 0)
+        Containor.Size = UDim2.new(0, 204, 0, 340)
+
+        -- [Containor Layout]
+        ContainorLayout.Parent = Containor
+        ContainorLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+        ContainorLayout.SortOrder = Enum.SortOrder.LayoutOrder
+        ContainorLayout.Padding = UDim.new(0, 3)
+
+
+        ------------------------------ [ Tools Library Start] ------------------------------
+        local ToolLibrary = {}
+
+        function ToolLibrary:CreateButton(Button_Name, callback)
+            local Button = Instance.new("TextButton")
+            local ButtonUICorner = Instance.new("UICorner")
+            local callback = callback or function() end
+    
+            Button.Name = "Button"
+            Button.Parent = Containor
+            Button.BackgroundColor3 = Color3.new(0.0627451, 0.0627451, 0.0627451)
+            Button.Position = UDim2.new(0.00980392192, 0, 0, 0)
+            Button.Size = UDim2.new(0, 191, 0, 30)
+            Button.Font = Enum.Font.Code
+            Button.Text = "  "..Button_Name..""
+            Button.TextColor3 = Color3.new(1, 1, 1)
+            Button.TextSize = 14
+            Button.TextWrapped = true
+            Button.TextXAlignment = Enum.TextXAlignment.Left
+
+            ButtonUICorner.Name = "Button Corner"
+            ButtonUICorner.Parent = Button
+            ButtonUICorner.CornerRadius = UDim.new(0, 2)
+
+            Button.MouseButton1Down:Connect(function()
+                pcall(callback)
+            end)
+        end
+
+        function ToolLibrary:CreateSlider(Slider_Name, min, max, callback)
+            MinValue = min or 0
+            MaxValue = max or 100
+            callback = callback or function() end
+
+            local SliderContainor = Instance.new("Frame")
+            local SliderUiCorner1 = Instance.new("UICorner")
+            local SliderUiCorner2 = Instance.new("UICorner")
+            local SliderUiCorner3 = Instance.new("UICorner")
+            local SilderText = Instance.new("TextLabel")
+            local SliderColor = Instance.new("Frame")
+            local SliderButton = Instance.new("TextButton")
+
+            SliderContainor.Name = "SliderContainor"
+            SliderContainor.Parent = Containor
+            SliderContainor.BackgroundColor3 = Color3.new(0.0627451, 0.0627451, 0.0627451)
+            SliderContainor.Size = UDim2.new(0, 191, 0, 30)
+
+            SliderButton.Name = "SliderButton"
+            SliderButton.Parent = SliderContainor
+            SliderButton.BackgroundColor3 = Color3.new(1, 1, 1)
+            SliderButton.Size = UDim2.new(0, 200, 0, 50)
+            SliderButton.Font = Enum.Font.SourceSans
+            SliderButton.TextColor3 = Color3.new(0, 0, 0)
+            SliderButton.Size = UDim2.new(0, 187, 0, 30)
+            SliderButton.BackgroundTransparency= "1"
+            SliderButton.TextSize = 14
+
+            SliderColor.Name = "SliderColor"
+            SliderColor.Parent = SliderButton
+            SliderColor.BackgroundColor3 = Color3.new(1, 0.541176, 0.541176)
+            SliderColor.BorderSizePixel = 0
+            SliderColor.Size = UDim2.new(0, 0, 0, 30)
+
+            SilderText.Name = "SilderText"
+            SilderText.Parent = SliderButton
+            SilderText.BackgroundColor3 = Color3.new(1, 1, 1)
+            SilderText.BackgroundTransparency = 1
+            SilderText.Size = UDim2.new(0, 187, 0, 30)
+            SilderText.Font = Enum.Font.Code
+            SilderText.Text = "  "..Slider_Name.." ["..min.."]"
+            SilderText.TextColor3 = Color3.new(1, 1, 1)
+            SilderText.TextSize = 14
+            SilderText.TextXAlignment = Enum.TextXAlignment.Left
+
+            SliderUiCorner1.Name = "Slider Corner"
+            SliderUiCorner1.Parent = SliderContainor
+            SliderUiCorner1.CornerRadius = UDim.new(0, 2)
+
+            SliderUiCorner2.Name = "Slider Corner"
+            SliderUiCorner2.Parent = SliderButton
+            SliderUiCorner2.CornerRadius = UDim.new(0, 2)
+
+            SliderUiCorner3.Name = "Slider Corner"
+            SliderUiCorner3.Parent = SliderColor
+            SliderUiCorner3.CornerRadius = UDim.new(0, 2)
+
+            local mouse = game.Players.LocalPlayer:GetMouse()
+            local uis = game:GetService("UserInputService")
+            local Value;
+            
+            SliderButton.MouseButton1Down:Connect(function()
+                Value = math.floor((((tonumber(MaxValue) - tonumber(MinValue)) / 190) * SliderColor.AbsoluteSize.X) + tonumber(MinValue)) or 0
+                pcall(function()
+                    callback(Value)
+                end)
+                SliderColor.Size = UDim2.new(0, math.clamp(mouse.X - SliderColor.AbsolutePosition.X, 0, 190), 0, 30)
+                moveconnection = mouse.Move:Connect(function()
+                    SilderText.Text = "  "..Slider_Name.." ["..Value.."]"
+                    Value = math.floor((((tonumber(MaxValue) - tonumber(MinValue)) / 190) * SliderColor.AbsoluteSize.X) + tonumber(MinValue))
+                    pcall(function()
+                        callback(Value)
+                    end)
+                    SliderColor.Size = UDim2.new(0, math.clamp(mouse.X - SliderColor.AbsolutePosition.X, 0, 190), 0, 30)
+                end)
+                releaseconnection = uis.InputEnded:Connect(function(Mouse)
+                    if Mouse.UserInputType == Enum.UserInputType.MouseButton1 then
+                        Value = math.floor((((tonumber(MaxValue) - tonumber(MinValue)) / 190) * SliderColor.AbsoluteSize.X) + tonumber(MinValue))
+                        pcall(function()
+                            callback(Value)
+                        end)
+                        SliderColor.Size = UDim2.new(0, math.clamp(mouse.X - SliderColor.AbsolutePosition.X, 0, 190), 0, 30)
+                        moveconnection:Disconnect()
+                        releaseconnection:Disconnect()
+                    end
+                end)
+            end)
+        end
+
+        function ToolLibrary:CreateLabel(LabelName)
+            local Label = Instance.new("TextLabel")
+ 
+            Label.Name = "Label"
+            Label.Parent = Containor
+            Label.BackgroundColor3 = Color3.new(0.0627451, 0.0627451, 0.0627451)
+            Label.Size = UDim2.new(0, 191, 0, 30)
+            Label.Font = Enum.Font.Code
+            Label.Text = "  "..LabelName..""
+            Label.TextColor3 = Color3.new(1, 1, 1)
+            Label.TextSize = 14
+            Label.TextXAlignment = Enum.TextXAlignment.Left
+        end
+
+        function ToolLibrary:CreateClipboard(ClipBoard_Text, URL)
+            local Button = Instance.new("TextButton")
+            local ButtonUICorner = Instance.new("UICorner")
+    
+            Button.Name = "Button"
+            Button.Parent = Containor
+            Button.BackgroundColor3 = Color3.new(0.0627451, 0.0627451, 0.0627451)
+            Button.Position = UDim2.new(0.00980392192, 0, 0, 0)
+            Button.Size = UDim2.new(0, 191, 0, 30)
+            Button.Font = Enum.Font.Code
+            Button.Text = "  "..ClipBoard_Text..""
+            Button.TextColor3 = Color3.new(1, 1, 1)
+            Button.TextSize = 14
+            Button.TextWrapped = true
+            Button.TextXAlignment = Enum.TextXAlignment.Left
+
+            ButtonUICorner.Name = "Button Corner"
+            ButtonUICorner.Parent = Button
+            ButtonUICorner.CornerRadius = UDim.new(0, 2)
+
+            Button.MouseButton1Down:Connect(function()
+                setclipboard(URL)
+            end)
+        end
+
+        return ToolLibrary
+        ------------------------------ [ Tools Library End] ------------------------------
+    end
+    return WindowLibrary
+    ------------------------------ [ Window Library End] ------------------------------
+end
+
+local Dynasty = Library:CreateGui("Hot") --  Creates Gui
+local Tab1 = Dynasty:Window("Dynasty Ui") -- Creates Tab
+
+Tab1:CreateLabel(
+    "Label" --[[Label Name]]
+)
+Tab1:CreateButton(
+    "Button", --[[Button Name]]
+    function() --[Function]]
+        print("Test") --[[Prints String]]
+end) --[[Creates a Button]]
+
+Tab1:CreateSlider(
+    "Slider", --[[Slider Name]]
+    0 --[[Min Value]],
+    150 --[[Max Value]],
+    function(SpeedValue) --[Function]]
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = SpeedValue  --[[Changes Speed to Max Value]]
+end) --[[Creates a Slider]]
+
+Tab1:CreateClipboard(
+	"Copy Dynasty" --[[Button Name]],
+	"Dynasty" --[[Clipboard Text]]
+)
+
