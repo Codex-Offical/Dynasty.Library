@@ -4,7 +4,7 @@
 ###### - There will be updates as this updates, please check documentation and a example on how to use it each update
 ###### - This will soon enough have all you need for a ui library
 
-# - More important information
+# More important information
 - The source will be obfucated to prevent skidding
 - This does have a license but you are free to use its functions but using any leaked versions can lead to consequences
 - Your exploit can be free and stil work but it must support ui librarys
